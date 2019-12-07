@@ -9,7 +9,7 @@ import (
 
 func say(word string) string {
 	title := "Hello world, this is"
-	return title + " " + word + " Save Email"
+	return title + " " + word + " JYSDeveloper "
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
