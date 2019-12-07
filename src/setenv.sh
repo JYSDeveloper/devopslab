@@ -1,8 +1,8 @@
 export GITACCOUNT= JYSDeveloper
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing25
 export KUBECONFIG=
 
-export NAMESPACE=
+export NAMESPACE=tektonknativebeijing25
 export EMAIL= yusheng.jiang@qq.com
 export INGRESS=
